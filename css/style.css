@@ -99,6 +99,16 @@ main .twelve.columns {
     border-radius: 3px;
 }
 
+.four.columns {
+    background-color: white;
+    padding: 5px;
+    /* These margins only appear at the smallest device scale */
+    margin-top: 1px;
+    margin-bottom: 1px;
+    border: 1px hidden;
+    border-radius: 3px;
+}
+
 main .row {
     margin-top: 5px;
     margin-bottom: 5px;
